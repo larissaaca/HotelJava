@@ -32,3 +32,7 @@ Para executar o sistema, siga estas etapas:
 
 - Este é um projeto de exemplo e pode não abordar todos os aspectos de um sistema de gestão de hotel completo.
 
+  ## Integrantes
+- Bruno Rocha de Araujo UC20100464
+- Larissa Carlos de Paulo UC20103063
+
